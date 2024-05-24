@@ -1,4 +1,3 @@
-# Exercício Fatura ::: 
 invoice = []
 insertProduct = 's'
 amount = 0 
